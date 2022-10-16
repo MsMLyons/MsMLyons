@@ -12,7 +12,18 @@ Hacktoberfest 2022: Registered
 - 🌱 I’m currently learning how to engage with and contribute to open source projects
 - 📫 How to reach me: https://linktr.ee/markilyons
 - 😄 Pronouns: she / her
-- ⚡ Fun fact: ... are facts ever really fun?
+- ⚡ Fun fact: Educators transitioning to tech make excellent employees
+
+Why do educators who transition to other fields, including tech, make great employees?
+Here are just a few of the skills and abilities educators have honed while in the profession:
+- Great communication and time management skills
+- Great at collaboration, at coaching, and being coached
+- Great at breaking down big problems into smaller, actionable tasks
+- Great at picking up new technologies quickly 
+- Great at working on multiple projects at a time
+- Great at seeing the big picture and focusing on detail
+- Great at identifying and working to meet objectives and goals
+
 
 
 
