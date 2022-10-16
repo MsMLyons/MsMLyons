@@ -11,11 +11,14 @@
 Why do educators who transition to other fields, including tech, make great employees?
 Here are just a few of the skills and abilities educators have honed while in the profession:
 - Great communication and time management skills
+- Great listening skills
 - Great at collaboration, at coaching, and being coached
+- Great at advocating for ourselves and others
 - Great at breaking down big problems into smaller, actionable tasks
 - Great at picking up new technologies quickly 
 - Great at working on multiple projects at a time
 - Great at seeing the big picture and focusing on detail
+- Great at implementing actions for horizontal and vertical integrations
 - Great at identifying and working to meet objectives and goals
 
 Check out my Holopin badges!
