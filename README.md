@@ -2,11 +2,10 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on becoming better at coding in JavaScript
-- 🌱 I’m currently learning how to engage with and contribute to open source projects
+- 🔭 I’m currently working on a master's degree in computer science at Merrimack College.
 - 📫 How to reach me: https://linktr.ee/markilyons
 - 😄 Pronouns: she / her
-- ⚡ Fun fact: Educators transitioning to tech make excellent employees
+- ⚡ Fun fact: I'm an educator transitioning to tech.
 
 Why do educators who transition to other fields, including tech, make great employees?
 Here are just a few of the skills and abilities educators have honed while in the profession:
