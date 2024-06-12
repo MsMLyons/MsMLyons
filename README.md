@@ -8,7 +8,7 @@
 
 Check out the badge my team won for Best Teamwork as participants in the Girl Develop It 2022 Hackathon.
 
-![Best Teamwork](https://user-images.githubusercontent.com/81724942/203152285-831cd769-4100-43bc-a1a8-b113f9399542.png)
+<img width=200px height=200px>![Best Teamwork](https://user-images.githubusercontent.com/81724942/203152285-831cd769-4100-43bc-a1a8-b113f9399542.png)</img>
 
 Check out my Holopin badges!
 
