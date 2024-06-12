@@ -4,9 +4,13 @@
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: I'm an educator transitioning to tech.
 
+
+
 Check out my Holopin badges!
 
 [![@msmlyons's Holopin board](https://holopin.io/api/user/board?user=msmlyons)](https://holopin.io/@msmlyons)
+
+
 
 Check out the badge my team won for Best Teamwork as participants in the Girl Develop It 2022 Hackathon.
 
