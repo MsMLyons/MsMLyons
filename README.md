@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a master's degree in computer science at Merrimack College.
-- 😄 Pronouns: she / her
-- ⚡ Fun fact: I'm an educator transitioning to tech.
+- 🔭 I've recently completed a master's degree in Computer Science.      
+- 😄 I need to update this space
+- ⚡ Fun fact: I can't think of anything to write right now.
 
 
 
