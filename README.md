@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I've recently completed a master's degree in Computer Science.      
-- 😄 I need to update this space
+- 😄 I need to update this space.
 - ⚡ Fun fact: I can't think of anything to write right now.
 
 
